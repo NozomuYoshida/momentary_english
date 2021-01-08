@@ -15,19 +15,19 @@
 ## 私は彼のことを知っています
 ---
 ## I know him.
----
-## これはいい本です
 ***
+## これはいい本です
+---
 ## This is a good book.
 ***
 ### この辞書は良い
-***
+---
 ### This dictionary is good. 
 ***
 #### あれは面白い本ですか？
 #### はい，そうです
-***
+---
 #### Is That an interesting book?
 #### Yes, it is.
-
+***
 
