@@ -22,7 +22,7 @@
 ## あの本は面白いですか？
 ## いえ，面白くありません
 ---
-## Is taht book interesting?
+## Is that book interesting?
 ## No, it isn't.
 ***
 ***
