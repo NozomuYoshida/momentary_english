@@ -15,7 +15,7 @@
 ## あれは面白い本ですか？
 ## はい，そうです
 ---
-## Is That an interesting book?
+## Is that an interesting book?
 ## Yes, it is.
 ***
 ***
