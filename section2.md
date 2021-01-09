@@ -28,7 +28,7 @@
 ## Yes, they are.
 ***
 ***
-## これらの車はとても高い
+## これらの家はとても高い
 ---
 ## These cars are very expensive.
 ***
