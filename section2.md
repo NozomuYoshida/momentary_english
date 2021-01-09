@@ -18,7 +18,7 @@
 ***
 ## この少年たちは中学生です
 ---
-## These boys are junior high school students?
+## These boys are junior high school students.
 ***
 ***
 ## あの少女たちは高校生ですか？
