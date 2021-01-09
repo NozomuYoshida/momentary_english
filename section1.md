@@ -7,7 +7,7 @@
 ## This is a good book.
 ***
 ***
-## この辞書は良い
+## この辞書は良い 
 ---
 ## This dictionary is good. 
 ***
