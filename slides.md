@@ -1,83 +1,71 @@
 # 瞬間英作文
-## Sec.6
-### How is/are - ?
+## Sec.7
+### 一般動詞
 ***
 <!-- 1 -->
-## この女の子は誰ですか？
-## 僕の妹です
+## 私は車を2台持っています
 ---
-## Who is this girl?
-## She is my sister.
+## I have two cars.
 ***
 ***
 <!-- 2 -->
-## あの男の子は誰ですか？
-## ロバートです
+## あなたはピアノを持っていますか？
+## いいえ，持っていません
 ---
-## Who is that boy?
-## He is Robert.
+## Do you have a piano?
+## No, I don't.
 ***
 ***
 <!-- 3 -->
-## あの男の人たちは誰ですか？
-## 私の父と兄です
+## 彼はたくさんの本を持っている
 ---
-## Who are those men?
-## They are my father and brother.
+## He has many books.
 ***
 ***
 <!-- 4 -->
-## あの女の人たちは誰ですか？
-## 私の母と姉です
+## 私は野球が好きです
 ---
-## Who are those women?
-## They are my mother and sister.
+## I like baseball.
 ***
 ***
 <!-- 5 -->
-## あの背の高い男の人は誰ですか？
-## ブラウンさんです
+## あなたは動物が好きですか？
+## はい，好きです
 ---
-## Who is that tale man?
-## He is Mr.Brown.
+## Do you like animals?
+## Yes, I do.
 ***
 ***
 <!-- 6 -->
-## あのきれいな女の人は誰ですか？
-## スミスさんです
+## トムはサッカーが好きです
+## 彼の弟もサッカーが好きです
 ---
-## Who is that beautiful woman?
-## She is Ms.Smith.
+## Tom likes soccer.
+## His brother likes it, too.
 ***
 ***
 <!-- 7 -->
-## あなたは誰？
-## ジョン・グリーンです
+## あなたは英語を話しますか？
 ---
-## Who are you?
-## I am John Greeen.
+## Do you speak English?
 ***
 ***
 <!-- 8 -->
-## 私は誰？
-## あなたは私の娘だよ
+## 彼らは日本語を上手に話します
 ---
-## Who am I?
-## You are my daughter.
+## They speak Japanese well
 ***
 ***
 <!-- 9 -->
-## 彼らは誰なの？
-## 僕の友達だよ
+## あなたのお父さんは学校で何を教えますか？
+## 数学を教えます
 ---
-## Who are they?
-## They are my friends.
+## What does your father teach at school?
+## He teaches mathematics.
 ***
 ***
 <!-- 10 -->
-## 彼女たちは誰ですか？
-## 私の生徒です 
+## 彼は毎日野球をします
 ---
-## Who are they?
-## They are my students.
+## He plays baseball everyday.
 ***
