@@ -1,63 +1,73 @@
 # 瞬間英作文
-## Sec.9
-### 人称代名詞の目的格
+## Sec.8
+### how many/much - ?
 ***
 <!-- 1 -->
-## 私は彼のことを知っています
+## あなたはかばんの中に本を何冊持っていますか？
 ---
-## I know him.
+## How many books do you have in your bag?
 ***
 ***
 <!-- 2 -->
-## あなたは彼女が好きですか？
+## あなたのおじさんは車を何台持っていますか？
 ---
-## Do you like her?
+## How many cars does your uncle have?
 ***
 ***
 <!-- 3 -->
-## 彼女は毎日彼らに会います
+## 彼にはいとこが何人いますか？
 ---
-## She meets them everyday.
+## How many cousins does he have?
 ***
 ***
 <!-- 4 -->
-## 彼女たちは私のことをよく知っています
+## あなたは毎日ミルクをどれだけ飲みますか？
 ---
-## They know me well.
+## How much milk do you drink everyday?
 ***
 ***
 <!-- 5 -->
-## 私は彼女たちがあまり好きではありません
+## 彼女はお金がいくら必要なのですか？
 ---
-## I do'nt like them so much.
+## How much money does she need?
 ***
 ***
 <!-- 6 -->
-## 彼は私たちのことが好きですか？
+## 彼はいくつの言葉を話しますか？
+## ３カ国語を話します
 ---
-## Does he like us?
+## How many languages does he speak?
+## He speaks three languages.
 ***
 ***
 <!-- 7 -->
-## あなたのお父さんは私のことを知っていますか？
+## このクラスには何人の生徒がいますか？
+## 40人です
 ---
-## Does your father know me?
+## How many students in this class?
+## There are forty students.
 ***
 ***
 <!-- 8 -->
-## 私の母はあなたたちが大好きです
+## エミリには何人の兄弟姉妹がいますか？
+## 兄が一人に妹が二人います
 ---
-## My mother likes you so much．
+## How many brothers and sisters does Emily have?
+## She has a brother and two sisters.
 ***
 ***
 <!-- 9 -->
-## あなたの息子さんはよく彼と遊びますか？
+## 彼は毎日コーヒーをどれくらい飲みますか？
+## 5,6杯飲みます
 ---
-## Does your son often play with him?
+## How much coffee does he drink everyday?
+## He drinks five or six cups of coffee.
 ***
 ***
 <!-- 10 -->
-## 彼女は時々彼らのためにピアノを弾きます
+## あなたのお兄さんは友達が何人くらいいますか？
+## わかりません．兄には友達が大勢います
 ---
-## She plays the piano for them.
+## How many friends does your brother have?
+## I do'nt know. He has many friends.
 ***

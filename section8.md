@@ -1,71 +1,73 @@
 # 瞬間英作文
-## Sec.7
-### 一般動詞
+## Sec.8
+### how many/much - ?
 ***
 <!-- 1 -->
-## 私は車を2台持っています
+## あなたはかばんの中に本を何冊持っていますか？
 ---
-## I have two cars.
+## How many books do you have in your bag?
 ***
 ***
 <!-- 2 -->
-## あなたはピアノを持っていますか？
-## いいえ，持っていません
+## あなたのおじさんは車を何台持っていますか？
 ---
-## Do you have a piano?
-## No, I don't.
+## How many cars does your uncle have?
 ***
 ***
 <!-- 3 -->
-## 彼はたくさんの本を持っている
+## 彼にはいとこが何人いますか？
 ---
-## He has many books.
+## How many cousins does he have?
 ***
 ***
 <!-- 4 -->
-## 私は野球が好きです
+## あなたは毎日ミルクをどれだけ飲みますか？
 ---
-## I like baseball.
+## How much milk do you drink everyday?
 ***
 ***
 <!-- 5 -->
-## あなたは動物が好きですか？
-## はい，好きです
+## 彼女はお金がいくら必要なのですか？
 ---
-## Do you like animals?
-## Yes, I do.
+## How much money does she need?
 ***
 ***
 <!-- 6 -->
-## トムはサッカーが好きです
-## 彼の弟もサッカーが好きです
+## 彼はいくつの言葉を話しますか？
+## ３カ国語を話します
 ---
-## Tom likes soccer.
-## His brother likes it, too.
+## How many languages does he speak?
+## He speaks three languages.
 ***
 ***
 <!-- 7 -->
-## あなたは英語を話しますか？
+## このクラスには何人の生徒がいますか？
+## 40人です
 ---
-## Do you speak English?
+## How many students in this class?
+## There are forty students.
 ***
 ***
 <!-- 8 -->
-## 彼らは日本語を上手に話します
+## エミリには何人の兄弟姉妹がいますか？
+## 兄が一人に妹が二人います
 ---
-## They speak Japanese well
+## How many brothers and sisters does Emily have?
+## She has a brother and two sisters.
 ***
 ***
 <!-- 9 -->
-## あなたのお父さんは学校で何を教えますか？
-## 数学を教えます
+## 彼は毎日コーヒーをどれくらい飲みますか？
+## 5,6杯飲みます
 ---
-## What does your father teach at school?
-## He teaches mathematics.
+## How much coffee does he drink everyday?
+## He drinks five or six cups of coffee.
 ***
 ***
 <!-- 10 -->
-## 彼は毎日野球をします
+## あなたのお兄さんは友達が何人くらいいますか？
+## わかりません．兄には友達が大勢います
 ---
-## He plays baseball everyday.
+## How many friends does your brother have?
+## I do'nt know. He has many friends.
 ***
