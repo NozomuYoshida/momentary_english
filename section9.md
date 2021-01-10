@@ -29,7 +29,7 @@
 <!-- 5 -->
 ## 私は彼女たちがあまり好きではありません
 ---
-## I do'nt like them so much.
+## I don't like them so much.
 ***
 ***
 <!-- 6 -->
