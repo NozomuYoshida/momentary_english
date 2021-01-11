@@ -1,8 +1,4 @@
 # 瞬間英作文
-## Review 1
-### Section 1-23
----
-# 瞬間英作文
 ## Sec.1
 ### this/that
 ***
@@ -206,7 +202,7 @@
 ## あの女性たちはなんですか？
 ## 秘書です
 ---
-## What are thoese women?
+## What are those women?
 ## They are secretaries.
 ***
 ***
@@ -779,7 +775,6 @@
 ---
 ## Let's go to Tokyo tomorrow.
 ***
-
 # 瞬間英作文
 ## Sec.12
 ### whose
@@ -904,7 +899,7 @@
 ---
 ## Where is your brother?
 ## He is in his room.
-*** 
+***
 ***
 <!-- 8 -->
 ## 君たちは毎日どこに行きますか？

@@ -70,7 +70,7 @@
 ## あの女性たちはなんですか？
 ## 秘書です
 ---
-## What are thoese women?
+## What are those women?
 ## They are secretaries.
 ***
 ***
