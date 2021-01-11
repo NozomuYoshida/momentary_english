@@ -7,7 +7,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #cabcab !default;
+$brand-primary: #000000 !default;
 $brand-secondary: #a9974e !default; 
 
 $brand-white: #fff;
@@ -542,7 +542,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			display: table;
 			height: 300px;
 			width: 100.1%;
-			opacity: 0;
+			opacity: 50%;
 			background: rgba($brand-overlay-color,.9);
 			@include transition(.3s);
 			@media screen and (max-width: $screen-sm){
