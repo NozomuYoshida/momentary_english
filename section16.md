@@ -29,7 +29,7 @@
 <!-- 5 -->
 ## オーストラリアでは今夏です
 ---
-## It is Summer is Australia now.
+## It is Summer in Australia now.
 ***
 ***
 <!-- 6 -->
