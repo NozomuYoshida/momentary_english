@@ -1,73 +1,75 @@
-# 瞬間英作文 test
-## Sec.15
-### which
+# 瞬間英作文
+##  Sec.18
+### how
 ***
 <!-- 1 -->
-## どちらがあなたの自転車ですか？
+## ご機嫌いかがですか？
+## 元気です，ありがとうございます
 ---
-## Which is your bicycle?
+## How are you?
+## I'm fine, thank you
 ***
 ***
 <!-- 2 -->
-## どちらが彼の家ですか？こちらですか，それともあちらですか？
+## あなたの息子さんはどうやって学校に行きますか？
 ---
-## Which is your house, this one or that one?
+## How does your son go to school?
 ***
 ***
 <!-- 3 -->
-## どちらが彼女の鉛筆ですか？
+## あなたのおばあさんの具合はいかがですか？
 ---
-## Which are her pencils?
+## How is your grandmother?
 ***
 ***
 <!-- 4 -->
-## どれがあなたのお父さんの車ですか？
+## ブラウンさんはどうやって会社に行きますか？
 ---
-## Which is your father’s car?
+## How does Mr.Brown go to school?
 ***
 ***
 <!-- 5 -->
-## どの本があなたのですか？
+## これはどのように使うのですか？
 ---
-## Which book is yours?
+## How do I use this?
 ***
 ***
 <!-- 6 -->
-## どの女の人が彼女の先生ですか？
-## あの背の高い人です
+## ニューヨークでは天気はいかがですか？
+## よく晴れています
 ---
-## Which woman is her teacher?
-## That tale woman is.
+## How is the weather is New York?
+## It is very fine.
 ***
 ***
 <!-- 7 -->
-## どちらがあなたの生徒ですか，こちらの子供たちですか，それともあちらの子供たちですか？
-## この子達です
+## 彼らはどのように日本に来るのですか？
+## 飛行機で来ます
 ---
-## Which are your students, these children or those children?
-## These children are.
+## How do they come to Japan?
+## They come by airplane
 ***
 ***
 <!-- 8 -->
-## どの犬が彼女のですか？
-## あの大きい犬です
+## お父さんとお母さんはいかがですか？
+## 元気です，ありがとう
 ---
-## Which is her dog?
-## That big dog is.
+## How are your father and mother?
+## They are fine, thank you
 ***
 ***
 <!-- 9 -->
-## どちらがあなたのお父さんのお気に入りの椅子ですか，こちらですか，あちらですか？
-## あちらの椅子です
+## トムはどんな風に歩きますか？
+## ゆっくり歩きます
 ---
-## Which is your father's favorite chair, this one or that one?
-## That one is.
+## How does Tom walk?
+## He walk slowly
 ***
 ***
 <!-- 10 -->
-## どちらが彼の好きなスポーツですか，野球ですか，それともサッカーですか？
-## サッカーです
+## ロバートはどのように日本語を話しますか？
+## とても上手に話します
 ---
-## Which is your favorite sport, baseball or soccer?
-## soccer is.
+## How does Robert speak Japanese?
+## He speaks very well.
 ***
