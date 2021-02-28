@@ -11,7 +11,7 @@
 <!-- 2 -->
 ## どちらが彼の家ですか？こちらですか，それともあちらですか？
 ---
-## Which is your house, this one or that one?
+## Which is his house, this one or that one?
 ***
 ***
 <!-- 3 -->
